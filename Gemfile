@@ -1,5 +1,8 @@
 source 'https://rubygems.org'
 
+# Use haml in views
+gem 'haml'
+
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.0'
